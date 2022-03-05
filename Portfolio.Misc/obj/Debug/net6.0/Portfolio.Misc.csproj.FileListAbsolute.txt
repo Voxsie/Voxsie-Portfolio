@@ -1,0 +1,12 @@
+/Users/zheltikov/RiderProjects/Portfolio/Portfolio.Misc/bin/Debug/net6.0/Portfolio.Misc.deps.json
+/Users/zheltikov/RiderProjects/Portfolio/Portfolio.Misc/bin/Debug/net6.0/Portfolio.Misc.dll
+/Users/zheltikov/RiderProjects/Portfolio/Portfolio.Misc/bin/Debug/net6.0/ref/Portfolio.Misc.dll
+/Users/zheltikov/RiderProjects/Portfolio/Portfolio.Misc/bin/Debug/net6.0/Portfolio.Misc.pdb
+/Users/zheltikov/RiderProjects/Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Misc.csproj.AssemblyReference.cache
+/Users/zheltikov/RiderProjects/Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Misc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zheltikov/RiderProjects/Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Misc.AssemblyInfoInputs.cache
+/Users/zheltikov/RiderProjects/Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Misc.AssemblyInfo.cs
+/Users/zheltikov/RiderProjects/Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Misc.csproj.CoreCompileInputs.cache
+/Users/zheltikov/RiderProjects/Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Misc.dll
+/Users/zheltikov/RiderProjects/Portfolio/Portfolio.Misc/obj/Debug/net6.0/ref/Portfolio.Misc.dll
+/Users/zheltikov/RiderProjects/Portfolio/Portfolio.Misc/obj/Debug/net6.0/Portfolio.Misc.pdb
